@@ -1,0 +1,8 @@
+/build/
+/fonts/
+/.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+/starter.pdf
+/main.pdf
